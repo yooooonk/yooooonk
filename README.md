@@ -21,13 +21,3 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?tyle=flat-square&logo=MongoDB&logoColor=white"/>
 </p>
 
-## Github Stats🌼
-
-<div align="center">
-
-![ouo_yoonk's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooooonk&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yooooonk&layout=compact)](https://github.com/yooooonk/github-readme-stats)
-
-</div>
-
