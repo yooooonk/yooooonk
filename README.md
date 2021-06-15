@@ -2,6 +2,11 @@
 
 - I'm Yoonkyung Jo
 - Junior Front-end developer
+<p>
+  <a href="https://velog.io/@ouo_yoonk"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ouo_yoonk"/></a>  
+  <a href="mailto:joyk9251@gmail.com"><img src="https://img.shields.io/badge/joyk9251@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=joyk9251@gmail.com"/></a>
+</p>
+
  
 ## Skills🚀
 <p >
@@ -26,7 +31,3 @@
 
 </div>
 
-<p align="center">
-  <a href="https://velog.io/@ouo_yoonk"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ouo_yoonk"/></a>  
-  <a href="mailto:joyk9251@gmail.com"><img src="https://img.shields.io/badge/joyk9251@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=joyk9251@gmail.com"/></a>
-</p>
