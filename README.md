@@ -4,7 +4,7 @@
 - Junior Front-end developer
  
 ## Skills🚀
-<p align="center">
+<p >
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Reduxjs-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
@@ -28,5 +28,5 @@
 
 <p align="center">
   <a href="https://velog.io/@ouo_yoonk"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ouo_yoonk"/></a>  
-  <a href="mailto:joyk9251@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=joyk9251@gmail.com"/></a>
+  <a href="mailto:joyk9251@gmail.com"><img src="https://img.shields.io/badge/joyk9251@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=joyk9251@gmail.com"/></a>
 </p>
