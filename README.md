@@ -1,9 +1,9 @@
-### Hi there👋
+## Hi there👋
 
 - I'm Yoonkyung Jo
 - Junior Front-end developer
  
-### Skills🚀
+## Skills🚀
 <p align="center">
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white"/>
@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?tyle=flat-square&logo=MongoDB&logoColor=white"/>
 </p>
 
-### Github Stats🌼
+## Github Stats🌼
 
 <div align="center">
 
